@@ -10,7 +10,7 @@ A lightning-fast, feature-rich C# Windows Forms utility designed for real-time s
 *   **⚡ Real-Time Junk Detection:** Instantly scans your system for leftover temporary files, browser caches, logs, and items in the Recycle Bin.
 *   **🩺 Live System Health Tracker:** Monitors core system vitals and disk health metrics in real time.
 *   **🛡️ Advanced Utilities:** Includes utility features like a secure file shredder, network fix tools, and startup item management.
-*   **💎 License Management System:** Built-in verification framework for software activation and commercial distribution.
+
 
 ---
 
