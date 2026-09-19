@@ -2,6 +2,7 @@
 
 A lightning-fast, transparent, and bloat-free C# Windows Forms utility designed for real-time system health monitoring, junk file detection, and automated maintenance. 
 
+<img width="725" height="593" alt="SS" src="https://github.com/user-attachments/assets/f30779b5-b4aa-4126-a6f8-62895979e2a1" />
 
 
 ## 🚫 Why Commercial Cleaners (Like CCleaner) Suck
