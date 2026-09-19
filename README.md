@@ -1,13 +1,13 @@
-<img width="725" height="596" alt="ss3" src="https://github.com/user-attachments/assets/798b7ff8-0f6b-4d5c-8a36-5c4870d756bb" />
-<img width="728" height="597" alt="ss2" src="https://github.com/user-attachments/assets/d36fe5b5-3c20-4c57-b1f1-fea9999be0f1" />
-<img width="726" height="588" alt="ss4" src="https://github.com/user-attachments/assets/32fd2593-937f-457d-8233-efd74ecdb5f6" />
+
 
 # 🚀 Advanced PC Cleaner
 
 A lightning-fast, transparent, and bloat-free C# Windows Forms utility designed for real-time system health monitoring, junk file detection, and automated maintenance. 
 
 <img width="725" height="593" alt="SS" src="https://github.com/user-attachments/assets/f30779b5-b4aa-4126-a6f8-62895979e2a1" />
-
+<img width="725" height="596" alt="ss3" src="https://github.com/user-attachments/assets/798b7ff8-0f6b-4d5c-8a36-5c4870d756bb" />
+<img width="728" height="597" alt="ss2" src="https://github.com/user-attachments/assets/d36fe5b5-3c20-4c57-b1f1-fea9999be0f1" />
+<img width="726" height="588" alt="ss4" src="https://github.com/user-attachments/assets/32fd2593-937f-457d-8233-efd74ecdb5f6" />
 
 ## 🚫 Why Commercial Cleaners (Like CCleaner) Suck
 
