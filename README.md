@@ -46,3 +46,11 @@ Most mainstream PC cleaning software used to be great, but over the years they h
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/TheRealFlooder/Advanced-PC-Cleaner.git](https://github.com/TheRealFlooder/Advanced-PC-Cleaner.git)
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+
+### Pro Edition 
+*Currently in development.
+
